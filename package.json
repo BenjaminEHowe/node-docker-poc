@@ -1,0 +1,13 @@
+{
+  "name": "node-docker-poc",
+  "version": "0.0.1",
+  "description": "A basic dockerised node.js application (stolen from https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)",
+  "author": "Benjamin Howe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
